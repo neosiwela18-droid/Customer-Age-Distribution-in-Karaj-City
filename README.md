@@ -13,4 +13,3 @@ In simple terms, this script shows the age distribution of customers in Karaj.
 It is a small data analysis and visualization program.
 
 <img width="1920" height="959" alt="age_distribution" src="https://github.com/user-attachments/assets/a771af40-a804-412f-8165-bae9ea509655" />
-
